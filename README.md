@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ I'm currently working on building out my 3 projects at App Academy, and looking for employment as a Software Engineer. Reach me at ableykeegan@gmail.com.
 <!--
 **Holidaez/Holidaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
